@@ -117,12 +117,14 @@
  ------       
  
  ### Made with <3 by
+ 
+[Riya Sisodia](https://github.com/Rrs-4817)
+:smirk:
 
 [Zuber Rahman](https://github.com/zuberrahman)
 :prince:
 
-[Riya S](https://github.com/Rrs-4817)
-:trollface:
+
        
         
           
